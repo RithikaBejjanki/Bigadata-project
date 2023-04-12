@@ -4,9 +4,13 @@ DELIVERABLE – 1
 1)	Team
 a)	Members
 •	Bhavya Sri Killi
+
 •	Rithika Bejjanki
+
 •	Maneesh Reddy Kapireddy
+
 •	Rahul Reddy Gangula
+
 •	Nagarjuna Challa
 
 
@@ -16,7 +20,7 @@ b)	Communication plan to include project artifact repository
 2.	Atkins Library
 
 2)	Selection of data to analyze from:
-Kaggle active competitions - https://www.kaggle.com/code/chhamajain/hotel-data-analysis
+Kaggle active competitions- https://www.kaggle.com/code/chhamajain/hotel-data-analysis
 
 
 
