@@ -30,7 +30,7 @@ Work division: Tasks are divided among team members efficiently any work overloa
 
 Meeting agendas: Update on tasks assigned to everyone, assign new tasks, and plan future developments, discussing issues faced and collectively working to fix them.
 
-## 3) Project artifact repository:
+## Project artifact repository:
 
 Git Link: https://github.com/challanagarjuna99/Bigadata-project/blob/main/README.md
 
