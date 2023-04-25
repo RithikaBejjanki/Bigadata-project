@@ -89,7 +89,7 @@ Through AWS Sagemaker, exploratory data analysis was carried out. The related fi
 b) Dashboard
 
 
-AWS Quicksight was used to construct dashboard instances. These dashboards are also examined in the Results section as a tool for addressing the goals and issues of the research. 
+AWS Quicksight was used to construct dashboard instances. These dashboards are also examined in the Results section as a tool for addressing the goals and issues of the research. [Click here to view Dasboards](https://github.com/challanagarjuna99/Bigadata-project/blob/main/Amazon%20Quicksight/Dashboards.pdf)
 
 
 ## Data preparation
