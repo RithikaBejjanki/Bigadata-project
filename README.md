@@ -74,5 +74,5 @@ The "Childhood Allergies: Prevalence, Demographics" dataset on Kaggle can be ana
 3. Are there any geographic differences in allergy prevalence rates or types of allergies among children living in different regions or climates?
 4. Is there a correlation between the presence of pets in the home and the prevalence of pet allergies?
 5. Is there a relationship between the severity of allergies and the age at which they were first diagnosed?
-#
+##
 
