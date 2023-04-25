@@ -81,13 +81,21 @@ The "Childhood Allergies: Prevalence, Demographics" dataset on Kaggle can be ana
 # Deliverable – 2
 ## Data Understanding
 a) Exploratory Data Analysis
-Through AWS Sagemaker, exploratory data analysis was carried out. The related file can be seen here.:[Exploratory Data Analysis](www.google.com)
+
+Through AWS Sagemaker, exploratory data analysis was carried out. The related file is uploaded here : 
 
 
 
 b) Dashboard
-AWS Quicksight was used to construct dashboard instances, which were then displayed as PDF documents. The PDF file can be found below. These dashboards are also examined in the Results section as a tool for addressing the goals and issues of the research.
-[Click here for dashboards]()
+
+
+AWS Quicksight was used to construct dashboard instances. These dashboards are also examined in the Results section as a tool for addressing the goals and issues of the research.
+
 
 ## Data preparation
+
+At every stage of the project, data preparation was done, including an initial study of the dataset structures listed in the Open Dataset Registry. Data preparation tasks include reading column data correctly based on the tool being used, considering anomalous data, erroneous values, manipulating the data, and more.
+First, we removed the category tags that aren't needed for
+similarly structured columns. For good measure we inspected our values for each column and
+ensured that we didn't alter them in unwanted or unexpected ways.
 
