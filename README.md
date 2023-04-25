@@ -87,7 +87,7 @@ Through AWS Sagemaker, exploratory data analysis was carried out. The related fi
 
 b) Dashboard
 AWS Quicksight was used to construct dashboard instances, which were then displayed as PDF documents. The PDF file can be found below. These dashboards are also examined in the Results section as a tool for addressing the goals and issues of the research.
-[Click here for dashboards](www.google.com)
+[Click here for dashboards]()
 
 ## Data preparation
 
