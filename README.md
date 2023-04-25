@@ -1,7 +1,7 @@
 # The "Childhood Allergies: Prevalence, Demographics"
 # Big-Data-Group-16
 This project is a part of the ITCS 6100 - Big Data Analytics for competitive Advantage course from the University of North Carolina at Charlotte
-# DELIVERABLE – 1
+# Deliverable – 1
 
 
 ## 	Team
@@ -78,4 +78,5 @@ The "Childhood Allergies: Prevalence, Demographics" dataset on Kaggle can be ana
 4. Is there a correlation between the presence of pets in the home and the prevalence of pet allergies?
 5. Is there a relationship between the severity of allergies and the age at which they were first diagnosed?
 ##
+# Deliverable – 2
 
