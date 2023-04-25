@@ -82,7 +82,7 @@ The "Childhood Allergies: Prevalence, Demographics" dataset on Kaggle can be ana
 ## Data Understanding
 a) Exploratory Data Analysis
 
-Through AWS Sagemaker, exploratory data analysis was carried out. The related file is uploaded here : [Exploratory Data Analysis](https://github.com/challanagarjuna99/Bigadata-project/blob/main/Exploratory%20Data%20Analysis/EDA.ipynb)
+Through [AWS Sagemaker](https://github.com/challanagarjuna99/Bigadata-project/blob/main/Amazon%20SageMaker/Amazon%20Sagemaker.pdf), exploratory data analysis was carried out. The related file is uploaded here : [Exploratory Data Analysis](https://github.com/challanagarjuna99/Bigadata-project/blob/main/Exploratory%20Data%20Analysis/EDA.ipynb)
 
 
 
