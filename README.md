@@ -1,7 +1,7 @@
 # DELIVERABLE – 1
 
 
-## 1)	Team
+## 	Team
 
 ### a)	Members
 •	Bhavya Sri Killi
@@ -20,7 +20,7 @@
 1.	Zoom meetings.
 2.	Atkins Library
 
-## 2)	Communication plan
+## 	Communication plan
 
 Communication channels: Discord for daily team conversation and syncing. We will be using email as a formal way of communication.
 
@@ -38,13 +38,13 @@ Dataset
 Kaggle: [https://www.kaggle.com/datasets/thedevastator/childhood-allergies-prevalence- diagnosis-and-tre](https://www.kaggle.com/datasets/thedevastator/childhood-allergies- prevalence-diagnosis-and-tre)
 
 
-## 4)	Selection of data to analyze
+## 	Selection of data to analyze
 
 The "Childhood Allergies: Prevalence, Demographics" dataset on Kaggle is an excellent choice for analysis. This dataset contains information on childhood allergies, including the prevalence rates and demographics of children with allergies. The dataset includes 6 columns and over 100,000 rows of data, including information on allergies such as asthma, eczema, hay fever, and food allergies.
 
 To analyze this dataset, you could start by exploring the prevalence rates of different types of allergies among children in different age groups, genders, and regions. You could also investigate the relationship between allergies and other demographic factors such as ethnicity, socio-economic status, and geographic location. Additionally, you could examine the trends in allergy prevalence rates over time and compare them to changes in environmental factors such as pollution levels and climate patterns.
 
-## 5)	Business Problem or Opportunity
+##  Business Problem or Opportunity
 
 The chosen dataset can be used to address various business problems and opportunities such as:
 Improving allergy diagnosis and treatment: The dataset reveals that millions of children suffer from allergies, and many cases go undiagnosed or untreated. A business opportunity could be to develop better diagnostic tools and treatment options for childhood allergies. This could include investing in research and development of new medications, therapies, or diagnostic tests.
@@ -55,7 +55,7 @@ Marketing and product development: For companies that already sell allergy-relat
 
 Overall, the "Childhood Allergies: Prevalence, Demographics" dataset presents several business problems and opportunities related to the prevention, diagnosis, and treatment of childhood allergies. By analyzing this data, companies can gain insights into the factors that contribute to allergy susceptibility and develop strategies to address these issues.
 
-## 6) Domain Knowledge
+## Domain Knowledge
 
 The "Childhood Allergies: Prevalence, Demographics" dataset on Kaggle is related to the domain of healthcare and medicine. More specifically, it is related to the field of pediatric allergy and immunology, which focuses on the diagnosis, treatment, and prevention of allergies and immune system disorders in children.
 To analyze this dataset effectively, some domain knowledge in the following areas may be helpful:
@@ -65,7 +65,7 @@ To analyze this dataset effectively, some domain knowledge in the following area
 4. Statistical analysis: Knowledge of basic statistical techniques such as descriptive statistics, correlation analysis, and regression analysis can be useful in exploring the relationships between variables in the dataset. It can also help identify trends over time and compare prevalence rates across different demographic groups.
 Overall, a basic understanding of pediatric allergy and immunology, epidemiology, medical terminology, and statistical analysis can be helpful in analyzing the "Childhood Allergies: Prevalence, Demographics" dataset effectively.
 
-## 7) Research Objectives and Question(s) (what you are trying to describe or predict with the data)
+## Research Objectives and Question(s) (what you are trying to describe or predict with the data)
 
 The "Childhood Allergies: Prevalence, Demographics" dataset on Kaggle can be analyzed to achieve several research objectives and answer various research questions related to childhood allergies. Here are some potential research objectives and questions that can be addressed using this dataset:
 
