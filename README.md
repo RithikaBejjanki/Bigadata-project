@@ -80,5 +80,5 @@ The "Childhood Allergies: Prevalence, Demographics" dataset on Kaggle can be ana
 ##
 # Deliverable – 2
 
-[click here](www.google.com)
+[Exploratory Data Analysis](www.google.com)
 
