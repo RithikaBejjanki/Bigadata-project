@@ -79,6 +79,7 @@ The "Childhood Allergies: Prevalence, Demographics" dataset on Kaggle can be ana
 5. Is there a relationship between the severity of allergies and the age at which they were first diagnosed?
 ##
 # Deliverable – 2
-
-[Exploratory Data Analysis](www.google.com)
+## Data Understanding
+a) Exploratory Data Analysis
+Through AWS Sagemaker, exploratory data analysis was carried out. The related file can be seen here.:[Exploratory Data Analysis](www.google.com)
 
