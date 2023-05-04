@@ -111,17 +111,32 @@ Performing machine learning on AWS will boosts the running computations. The mac
 
 ## Results
 
-### What are the differences in the prevalence of allergies among different racial groups, and how have these patterns changed over time according to the NHIS data?
+### 1.What are the differences in the prevalence of allergies among different racial groups, and how have these patterns changed over time according to the NHIS data?
 
 The chart reveals some interesting patterns in allergy prevalence by race over time. The prevalence of allergies is highest among non-Hispanic white children, with rates hovering around 10-12% over the years. Non-Hispanic black children have slightly lower rates of allergies, but still higher than Hispanic and other/mixed race children.
 The chart also shows that allergy rates have remained relatively stable over time for all racial groups, with only minor fluctuations from year to year.
 
 ![WhatsApp Image 2023-05-04 at 3 02 44 PM](https://user-images.githubusercontent.com/114270702/236304116-0879e06f-0a4d-4b6e-a2be-5b2a7dbbc366.jpeg)
 
-### What are the trends in the prevalence of childhood allergies by gender over time, and how do these patterns compare between boys and girls?
+### 2.What are the trends in the prevalence of childhood allergies by gender over time, and how do these patterns compare between boys and girls?
 
 The chart reveals some interesting patterns in allergy prevalence by gender over time. For example, the prevalence of allergies is slightly higher among boys than girls, with rates hovering around 9-10% for boys and 8-9% for girls over the years. The chart also shows that allergy rates have remained relatively stable over time for both genders, with only minor fluctuations from year to year.
 
 ![2](https://user-images.githubusercontent.com/114270702/236304727-bad4b89b-a1c6-44c2-aaf1-97719075ed7d.jpeg)
+
+### 3.What are the counts and percentages of 'Non-Medicaid' and 'Medicaid'?
+
+The percentages of 'Non-Medicaid' and 'Medicaid' are represented in the pie chart subplot of the graph. The percentage value shown for each category represents the proportion of the total number of entries in the 'PAYER_FACTOR' column that belong to that category.
+
+![3](https://user-images.githubusercontent.com/114270702/236306279-322905e9-76fe-4c7e-988e-b4ac57bf119e.jpeg)
+
+### 4.Are there any significant differences in the distribution of allergies between males and females?
+
+We can observe an increase in the allergies for 'male', but not significant. The pie chart slices are labeled with the categories 'Male' and 'Female', and the percentage of each category is displayed in each slice using the 'autopct' parameter.
+
+![4](https://user-images.githubusercontent.com/114270702/236307129-5275f888-c983-48e4-a28d-6382309b3e2f.jpeg)
+
+### 5.
+
 
 
