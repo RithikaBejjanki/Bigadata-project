@@ -136,7 +136,12 @@ We can observe an increase in the allergies for 'male', but not significant. The
 
 ![4](https://user-images.githubusercontent.com/114270702/236307129-5275f888-c983-48e4-a28d-6382309b3e2f.jpeg)
 
-### 5.
+### 5.What is the distribution of birth years among patients with different allergies?
+
+This is useful for visualizing the distribution of birth years for patients with different allergies, and may help identify any potential relationships between age and allergy prevalence.
+
+![5](https://user-images.githubusercontent.com/114270702/236352658-c139d593-4f76-43f1-b50e-03cc9a8ee2f9.jpeg)
+
 
 
 
