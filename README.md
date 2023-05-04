@@ -89,7 +89,8 @@ Through [AWS Sagemaker](https://github.com/challanagarjuna99/Bigadata-project/bl
 b) Dashboard
 
 
-AWS Quicksight was used to construct dashboard instances. These dashboards are also examined in the Results section as a tool for addressing the goals and issues of the research. [Click here to view Dasboards](https://github.com/challanagarjuna99/Bigadata-project/blob/main/Amazon%20Quicksight/Dashboards.pdf)
+AWS Quicksight was used to construct dashboard instances. These dashboards are also examined in the Results section as a tool for addressing the goals and issues of the research. 
+[Click here to view Dasboards](https://github.com/challanagarjuna99/Bigadata-project/blob/main/Amazon%20Quicksight/Dashboards.pdf)
 
 
 ## Data preparation
@@ -98,4 +99,29 @@ At every stage of the project, data preparation was done, including an initial s
 First, we removed the category tags that aren't needed for
 similarly structured columns. For good measure we inspected our values for each column and
 ensured that we didn't alter them in unwanted or unexpected ways.
+##
+# Deliverable - 3
+## Analytics, Machine Learning
+
+Using Amazon SageMaker, we performed Machine learning and analytics for predicting the results. We used different types of bar charts, pie plots, line graphs and heat maps to view the results. The dataset was train and tested with random forest and CatBoost algorithms. At first, we calculated the study duration for each patient, converted allergy data type to floats and calculated deltas for treatment data per allergy. These gave the best results to get final prediction.
+
+## Evaluation and Optimization
+
+Performing machine learning on AWS will boosts the running computations. The machine learning model like Random forest which helps to find the predicted median value in the data, along with random forest we used Cat boost which adds best solutions with out parameter tuning that reduces time spent on parameter tuning because CatBoost provides effective results with default parameters. Using Scatter plot for visualizing the predicted values, based on the positive correlations of the plot helps the data scientist to analyse the stats for better understanding. By optimizing the models for the best fit, a scatter chat can help in setting up models.
+
+## Results
+
+### What are the differences in the prevalence of allergies among different racial groups, and how have these patterns changed over time according to the NHIS data?
+
+The chart reveals some interesting patterns in allergy prevalence by race over time. The prevalence of allergies is highest among non-Hispanic white children, with rates hovering around 10-12% over the years. Non-Hispanic black children have slightly lower rates of allergies, but still higher than Hispanic and other/mixed race children.
+The chart also shows that allergy rates have remained relatively stable over time for all racial groups, with only minor fluctuations from year to year.
+
+![WhatsApp Image 2023-05-04 at 3 02 44 PM](https://user-images.githubusercontent.com/114270702/236304116-0879e06f-0a4d-4b6e-a2be-5b2a7dbbc366.jpeg)
+
+### What are the trends in the prevalence of childhood allergies by gender over time, and how do these patterns compare between boys and girls?
+
+The chart reveals some interesting patterns in allergy prevalence by gender over time. For example, the prevalence of allergies is slightly higher among boys than girls, with rates hovering around 9-10% for boys and 8-9% for girls over the years. The chart also shows that allergy rates have remained relatively stable over time for both genders, with only minor fluctuations from year to year.
+
+![2](https://user-images.githubusercontent.com/114270702/236304727-bad4b89b-a1c6-44c2-aaf1-97719075ed7d.jpeg)
+
 
