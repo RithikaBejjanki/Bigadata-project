@@ -142,6 +142,35 @@ This is useful for visualizing the distribution of birth years for patients with
 
 ![5](https://user-images.githubusercontent.com/114270702/236352658-c139d593-4f76-43f1-b50e-03cc9a8ee2f9.jpeg)
 
+## Future Work,Comments
+
+### What was unique about the data? Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment? Imputation?
+
+There are so many property values in the dataset like Gender_factor, Race_factor, Ethnicity_factor. There are so many unnecessary columns where we tried to remove them.Here we are using str.replace function to remove the unecessary or not required columns from the dataset. If the column name matches with hyphen or space or digit or blank as a word in the column names, then those column names are removed.
+
+### Did you create any new additional features / variables?
+
+We tried to implement many questions as we can analyze the whole dataset with different kinds of graphs like scatter plot, bar graph, piechart, Heat map, line graph etc., with these charts we implemented the indepth analysis of food allergies.
+
+### What was the process you used for evaluation? What was the best result?
+
+Finding the best solutions for the unknown data is challenging, for evaluation of the model comes under the accuracy provided by the model. The results that evaluated helps to find the most allergic food to the people.
+
+### Is there Bias in your work? What were the problems you faced? How did you solve them?
+
+No, We didn’t find any bias among ourselves. We helped each other while doing this project. The main problem is working with AWS for developing machine learning with tools its challenging to work but it helps us a lot by providing all required tools at one place and provides good performance. 
+
+### What future work would you like to do?
+
+Increasing public knowledge of children allergies, including their signs, causes, and treatment options, might help in increasing the accuracy of diagnoses and the effectiveness of treatments. Research in the future may concentrate on creating efficient awareness-raising and education programs for parents, caregivers, and medical professionals.
+
+## Presentation Video
+
+
+
+
+
+
 
 
 
