@@ -105,6 +105,8 @@ ensured that we didn't alter them in unwanted or unexpected ways.
 
 Using Amazon SageMaker, we performed Machine learning and analytics for predicting the results. We used different types of bar charts, pie plots, line graphs and heat maps to view the results. The dataset was train and tested with random forest and CatBoost algorithms. At first, we calculated the study duration for each patient, converted allergy data type to floats and calculated deltas for treatment data per allergy. These gave the best results to get final prediction.
 
+(click Here to view the results{})
+
 ## Evaluation and Optimization
 
 Performing machine learning on AWS will boosts the running computations. The machine learning model like Random forest which helps to find the predicted median value in the data, along with random forest we used Cat boost which adds best solutions with out parameter tuning that reduces time spent on parameter tuning because CatBoost provides effective results with default parameters. Using Scatter plot for visualizing the predicted values, based on the positive correlations of the plot helps the data scientist to analyse the stats for better understanding. By optimizing the models for the best fit, a scatter chat can help in setting up models.
@@ -126,13 +128,13 @@ The chart reveals some interesting patterns in allergy prevalence by gender over
 
 ### 3.What are the counts and percentages of 'Non-Medicaid' and 'Medicaid'?
 
-The percentages of 'Non-Medicaid' and 'Medicaid' are represented in the pie chart subplot of the graph. The percentage value shown for each category represents the proportion of the total number of entries in the 'PAYER_FACTOR' column that belong to that category.
+The percentages of 'Non-Medicaid' and 'Medicaid' are represented in the pie chart subplot of the graph. By seeing the results we got to know that the percentage of non-medicaide is 73.93 and the percentage of medicaid is 26.07.The percentage value shown for each category represents the proportion of the total number of entries in the 'PAYER_FACTOR' column that belong to that category.
 
 ![3](https://user-images.githubusercontent.com/114270702/236306279-322905e9-76fe-4c7e-988e-b4ac57bf119e.jpeg)
 
 ### 4.Are there any significant differences in the distribution of allergies between males and females?
 
-We can observe an increase in the allergies for 'male', but not significant. The pie chart slices are labeled with the categories 'Male' and 'Female', and the percentage of each category is displayed in each slice using the 'autopct' parameter.
+We can observe an increase in the allergies for 'male', but not significant. The pie chart slices are labeled with the categories 'Male' and 'Female', and the percentage of each category is displayed in each slice using the 'autopct' parameter. The male percentage of atopic derm is 51.90 and the female percentage of atopic derm is 48.10. 
 
 ![4](https://user-images.githubusercontent.com/114270702/236307129-5275f888-c983-48e4-a28d-6382309b3e2f.jpeg)
 
