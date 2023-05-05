@@ -72,11 +72,11 @@ Overall, a basic understanding of pediatric allergy and immunology, epidemiology
 
 The "Childhood Allergies: Prevalence, Demographics" dataset on Kaggle can be analyzed to achieve several research objectives and answer various research questions related to childhood allergies. Here are some potential research objectives and questions that can be addressed using this dataset:
 
-1. What is the prevalence rate of different types of allergies among children? Are there any trends or patterns in allergy prevalence rates over time or across different demographic groups?
-2. What demographic factors, such as age, gender, ethnicity, and socioeconomic status, are associated with higher rates of allergies in children?
-3. Are there any geographic differences in allergy prevalence rates or types of allergies among children living in different regions or climates?
-4. Is there a correlation between the presence of pets in the home and the prevalence of pet allergies?
-5. Is there a relationship between the severity of allergies and the age at which they were first diagnosed?
+1. What are the differences in the prevalence of allergies among different racial groups, and how have these patterns changed over time according to the NHIS data?
+2. What are the trends in the prevalence of childhood allergies by gender over time, and how do these patterns compare between boys and girls?
+3. What are the counts and percentages of 'Non-Medicaid' and 'Medicaid'?
+4. Are there any significant differences in the distribution of allergies between males and females?
+5. What is the distribution of birth years among patients with different allergies?
 ##
 # Deliverable – 2
 ## Data Understanding
@@ -116,7 +116,7 @@ Performing machine learning on AWS will boosts the running computations. The mac
 The chart reveals some interesting patterns in allergy prevalence by race over time. The prevalence of allergies is highest among non-Hispanic white children, with rates hovering around 10-12% over the years. Non-Hispanic black children have slightly lower rates of allergies, but still higher than Hispanic and other/mixed race children.
 The chart also shows that allergy rates have remained relatively stable over time for all racial groups, with only minor fluctuations from year to year.
 
-![WhatsApp Image 2023-05-04 at 3 02 44 PM](https://user-images.githubusercontent.com/114270702/236304116-0879e06f-0a4d-4b6e-a2be-5b2a7dbbc366.jpeg)
+![1](https://user-images.githubusercontent.com/114270702/236357908-f1d0cc31-6d5e-4be1-a94d-58b34061d20e.jpeg)
 
 ### 2.What are the trends in the prevalence of childhood allergies by gender over time, and how do these patterns compare between boys and girls?
 
